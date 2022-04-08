@@ -1,15 +1,13 @@
-# tec-Bitcoin
+# tec-Coin
 tec-1 bitcoin mining
 
 
-http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html
 
 if it can be done by hand then the z80 can too.
 
 actually stupid, better make a tec-1-coin and use it among tec-1 members
 use tec-1 to handle the blocks
 
-https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462
 
 ## sudo code
 - take previous financial operation (new purchase history etc.)
@@ -24,3 +22,7 @@ https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462
 - Update this copy of the block chain to all users of the network
 - Your done! be sure to repeat this operation as fast as possible to prevent counterfeit of your currency
 - every now and then, verify the blockchain, by hashing the part containing the financal record and number (:A) to make sure it has not been tampered with and review the financial history to make sure everyones balances is correct
+
+## Ref 
+- https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462
+- http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html
