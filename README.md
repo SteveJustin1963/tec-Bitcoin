@@ -23,6 +23,9 @@ use tec-1 to handle the blocks
 - Update this copy of the block chain to all users of the network
 - Your done! be sure to repeat this operation as fast as possible to prevent counterfeit of your currency
 - every now and then, verify the blockchain, by hashing the part containing the financal record and number (:A) to make sure it has not been tampered with and review the financial history to make sure everyones balances is correct
+ 
+
+
 
 ## Ref 
 - https://lifehacker.com/how-to-create-your-own-cryptocurrency-1825337462
