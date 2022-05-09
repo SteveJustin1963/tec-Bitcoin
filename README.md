@@ -13,10 +13,10 @@ use tec-1 to handle the blocks
 - take previous financial operation (new purchase history etc.)
 - Concatanate hash of previous block in the chain `:H code h!;`
   - https://en.wikipedia.org/wiki/MD5#Algorithm 
-- add a integer (Lets call it :A), First time round, `:0a!; \\counter
+- add a integer (Lets call it :A), First time round, `:0a!; \\counter`
 - [D] Concatante :A at the end, Hash through an alorigthm (MD5, SHA1 etc) `a h +`
 - check if output meets a certain condition (Like having 3 0's at the end)
-- If does not meet condition, Imcrement :A (:A += 1) and goto [D]
+- If does not meet condition, Imcrement `:A 0 at enth()();` and goto [D]
 - When the condition is met, organise the block, this is done by:
 - Combine the financial record with the integer and this with the hash
 - Add this block onto the chain
